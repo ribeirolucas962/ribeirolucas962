@@ -2,7 +2,7 @@
 
 ## Estudante de ciências de Dados 👨‍💻
 
-### Apixonado pela dados. 
+### 🖥️ Sou apaixonado pela área de dados.🖥️
 
  <div>
    
