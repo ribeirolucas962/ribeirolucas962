@@ -27,4 +27,8 @@
   <img align="centeer" alt="Mysql" height="70" widht="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img align="centeer" alt="Mysql" height="70" widht="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
  <img align="centeer" alt="Mysql" height="50" widht="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
+</div><br/>
+
+## 💻 Sou apaixonado por tecnologia e sempre estou empolgado para explorar as últimas inovações.💻
+
+
