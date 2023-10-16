@@ -1,8 +1,8 @@
-# Ola! Eu sou Lucas Ribeiro 👍
+# Hello, my name is Lucas Ribeiro 👍
 
-## Estudante de ciências de Dados 👨‍💻
+## Data science student 👨‍💻
 
-### 🖥️ Sou apaixonado pela área de dados.🖥️
+### 🖥️ I am passionate about the data area.🖥️
 
  <div>
    
@@ -32,6 +32,6 @@
  <img align="centeer" alt="Mysql" height="50" widht="80" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/>
 </div><br/>
 
-## 💻 Sou apaixonado por tecnologia e sempre estou empolgado para explorar as últimas inovações.💻
+## 💻 I am passionate about technology and am always excited to explore the latest innovations.💻
 
 
