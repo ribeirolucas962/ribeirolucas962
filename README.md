@@ -10,8 +10,8 @@
 
  <div>
    
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasRibeiro&show_icons=true&theme=gruvbox"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRibeiro&layout=compact"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasRibeiro&show_icons=true&theme=gruvbox"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRibeiro&layout=compact"/>
  </div>
 
   ## 💯 Let's connect:
