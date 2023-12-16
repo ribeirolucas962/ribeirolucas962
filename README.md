@@ -16,7 +16,7 @@
 
   ## 💯 Let's connect:
 
-   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucas-ribeiro-n-de-almeida-55404918a)
+   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/lucas-ribeiro-n-de-almeida-55404918a](https://www.linkedin.com/in/lucas-ribeiro-n-de-almeida/overlay/contact-info/))
  [![Eamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ribeirolucas962@gmail.com)
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ribeirolucas962)
   [![whatsapp](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]() 
