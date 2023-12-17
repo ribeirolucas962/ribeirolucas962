@@ -33,8 +33,7 @@
  <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/>
- <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&logo=micro:bi&logoColor=white"/> 
-</div><br/>
+ 
 
 ## 💻 I am passionate about technology and am always excited to explore the latest innovations.💻
 
