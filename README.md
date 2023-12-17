@@ -15,8 +15,7 @@
  </div>
 
   ## 💯 Let's connect:
-
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ [![Eamil](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logo=gmail&logoColor=white)](ribeirolucas962@gmail.com)
  [![Eamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ribeirolucas962@gmail.com)
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ribeirolucas962)
   [![whatsapp](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]() 
