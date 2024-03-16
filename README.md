@@ -27,12 +27,10 @@
 <div>
    <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
    <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/micro:bi-00ED00?style=for-the-badge&logo=micro:bi&logoColor=white"/>   
-<img align="centeer" alt="Mysql" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="centeer" alt="Mysql" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
- <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
- <img align="centeer" alt="Python" height="40" widht="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="centeer" alt="MySQ" height="50" widht="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="centeer" alt="Mysql" height="40" widht="50" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="centeer" alt="HTML5" height="40" widht="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="centeer" alt="Python" height="40" widht="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
  
 
 ## 💻 I am passionate about technology and am always excited to explore the latest innovations.💻
