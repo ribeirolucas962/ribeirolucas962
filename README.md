@@ -19,10 +19,8 @@
   ## 💯 Let's connect:
  [![Eamil](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/lucas-ribeiro-n-de-almeida/)
  [![Eamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ribeirolucas962@gmail.com)
- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ribeirolucas962)
-  [![whatsapp](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]() 
-  [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](47992655187)
-  [![whatsapp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](rineal2020)
+ [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](47992655187)
+ [![whatsapp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](rineal2020)
 
 ### 🛠️ Technology I know!
 
