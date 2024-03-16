@@ -1,4 +1,4 @@
-# Hello, my name is Lucas Ribeiro 👍
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=50&pause=3000&color=00F711&background=FFFFFF00&width=800&height=85&lines=Olá,+Seja+Bem-Vindo(a)!+👏🏻;Eu+me+chamo+Lucas+Ribeiro+🧑🏻‍💻)](https://git.io/typing-svg)
 
 ## Data science student 👨‍💻
 
