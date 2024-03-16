@@ -17,13 +17,20 @@
  </div>
 
   ## 💯 Let's connect:
- [![Eamil](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/lucas-ribeiro-n-de-almeida/)
- <div> 
- <a href="lucasribeiro962@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+<div> 
 
- [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](47992655187)
- [![whatsapp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](rineal2020)
-  </div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=7&pause=1000&color=A3A3A3&repeat=false&width=825&lines=🖥️ Contact" alt="Typing SVG" /></a>
+  <a href="https://www.linkedin.com/in/m-igor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.marlosigor.cloud/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="mailto:maroosigor@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+
+  <img alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
+ 
+  #
+    
+<div/>
 
 ### 🛠️ Technology I know!
 
