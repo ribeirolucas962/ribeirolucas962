@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=50&pause=3000&color=00a8f7&background=FFFFFF00&width=800&height=85&lines=Olá,+Seja+Bem-Vindo(a)!+👏🏻;Eu+me+chamo+Lucas+Ribeiro+🧑🏻‍💻)](https://git.io/typing-svg)
 
-## Data science student 👨‍💻
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=A3A3A3&repeat=false&width=825&lines=Data science student 👨‍💻" alt="Typing SVG" /></a>
+
+
 
 ### 🖥️ I am passionate about the data area.🖥️
 
