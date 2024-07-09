@@ -4,7 +4,7 @@
 
 
 
-### 🖥️ I am passionate about the data area.🖥️
+### 🖥️ I am deeply interested in the data field.🖥️
 
 
 
