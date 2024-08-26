@@ -25,7 +25,7 @@
   <a href="https://ribeirolucas962.github.io/portfoliolucasribeiro//" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="mailto:ribeirolucas962@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <img alt="Foto" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*5NEc2pQgG2heYK221nnK_Q.gif" width="312" height="200">
+  <img alt="Foto" src="https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0" width="312" height="200">
   
   <iframe src="https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0">via GIPHY</a></p>
  
