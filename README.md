@@ -24,11 +24,9 @@
   <a href="https://www.linkedin.com/in/lucas-ribeiron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://ribeirolucas962.github.io/portfoliolucasribeiro//" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="mailto:ribeirolucas962@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <img alt="Foto" src="https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0" width="312" height="200">
-  
-  <iframe src="https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0">via GIPHY</a></p>
- 
+   
+ <img alt="Foto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh3dzNvcTEwbWtoMHplYW85aW9vdHQxZnU0cHczNHhhYjU5ZnNsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.webp" width="310" height="145">
+
   #
     
 <div/>
