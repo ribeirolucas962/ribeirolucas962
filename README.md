@@ -8,7 +8,7 @@ Olá, eu sou o Lucas Ribeiro! 👋
 
 👨‍💻 Sobre Mim
 
-Sou apaixonado por Ciência de Dados e estou sempre em busca de novas tecnologias e inovações para aplicar no campo da análise e interpretação de dados. Para mim, dados são muito mais do que números – são oportunidades de enxergar o mundo sob outra perspectiva e encontrar soluções criativas para problemas reais.
+Sou apaixonado por Dados e estou sempre em busca de novas tecnologias e inovações para aplicar no campo da análise e interpretação de dados. Para mim, dados são muito mais do que números – são oportunidades de enxergar o mundo sob outra perspectiva e encontrar soluções criativas para problemas reais.
 
 Meu principal objetivo é transformar dados brutos em insights acionáveis, contribuindo para soluções inteligentes e eficientes. Gosto de compartilhar meus projetos, aprendizados e experiências aqui no GitHub, sempre aberto a trocar ideias e colaborar com a comunidade.
 
