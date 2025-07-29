@@ -46,7 +46,7 @@ If you also believe in the power of data to drive transformation, let's turn inf
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-ribeiron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ribeirolucas962.github.io/portfoliolucasribeiro/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"></a>
+  <a href="https:ribeirolucas962.github.io/Portifolio_atualizado-/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"></a>
   <a href="mailto:ribeirolucas962@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
