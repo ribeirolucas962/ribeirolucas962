@@ -35,6 +35,18 @@ Análise de Dados com Python, SQL e R
 
 ## 📬 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ribeiron/)[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=flat-square&logo=About.me&logoColor=white)](https://ribeirolucas962.github.io/Portifolio_atualizado-/)[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ribeirolucas962@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-ribeiron/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  
+  <a href="https://ribeirolucas962.github.io/Portifolio_atualizado-/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35"/>
+  </a>
+  
+  <a href="mailto:ribeirolucas962@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</p>
 
 
