@@ -40,9 +40,10 @@ Análise de Dados com Python, SQL e R
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   
-  <a href="https://ribeirolucas962.github.io/Portifolio_atualizado-/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35"/>
-  </a>
+<a href="https://ribeirolucas962.github.io/Portifolio_atualizado-/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=githubpages&logoColor=white" height="35"/>
+</a>
+
   
   <a href="mailto:ribeirolucas962@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
