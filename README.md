@@ -18,4 +18,13 @@ Business Intelligence com Power BI e Excel
 Análise de Dados com Python, SQL e R
   
 ## 🚀 Tecnologias & Ferramentas  
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=microsoftsqlserver&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)![Power BI](https://img.shields.io/badge/Power%20BI-05122A?style=flat&logo=powerbi)![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r)![Excel](https://img.shields.io/badge/Excel-05122A?style=flat&logo=microsoft-excel)![n8n](https://img.shields.io/badge/n8n-05122A?style=flat&logo=n8n)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
+
+
+## 📬 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ribeiron/)[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=flat-square&logo=About.me&logoColor=white)](https://ribeirolucas962.github.io/Portifolio_atualizado-/)[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ribeirolucas962@gmail.com)
+
+
