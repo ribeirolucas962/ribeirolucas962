@@ -6,12 +6,26 @@
 </p>
 
 <p align="center">
+  🔍 <strong>Aberto a oportunidades</strong> em Dados e Ciência da Computação · <strong>Remoto</strong> · CLT
+</p>
+
+<p align="center">
   <a href="https://ribeirolucas962.github.io/Portifolio_atualizado-/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=githubpages&logoColor=white" height="35"/></a>
   <a href="https://www.linkedin.com/in/lucas-ribeiron/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
   <a href="mailto:ribeirolucas962@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ribeirolucas962/projeto_entrega">
+    <img src="assets/dashboard-logistica.webp" alt="Dashboard de logística e entregas construído em Python e Streamlit" width="100%"/></a>
+</p>
+
+<p align="center">
+  <sub><strong>Dashboard de Logística e Entregas</strong> — Python · Streamlit · Plotly ·
+  <a href="https://github.com/ribeirolucas962/projeto_entrega">ver o projeto</a></sub>
 </p>
 
 ---
@@ -36,6 +50,16 @@ Atuo desde a captura e o tratamento dos dados até a entrega de dashboards e rel
 | **[Modelo de Previsão de Vendas](https://github.com/ribeirolucas962/modelo_de_predicao)** | Modelo preditivo sobre histórico de vendas para identificar padrões e projetar resultados futuros. | Python · Scikit-learn |
 | **[Análises de Clusterização](https://github.com/ribeirolucas962/Analises-de-Clusteriza-o)** | Segmentação não supervisionada em diferentes versões e métricas, incluindo casos de vinhos e fraude bancária. | Python · Scikit-learn |
 | **[Machine Learning na prática](https://github.com/ribeirolucas962/Projeto_aprendizado_de-maquina_Scikit_learn_Keras_TensorFlow)** | Implementação dos estudos do "Mão à Obra" (Géron): redes neurais e modelos de deep learning para classificação e previsão. | Scikit-learn · Keras · TensorFlow |
+
+<p align="center">
+  <a href="https://github.com/ribeirolucas962/TRABAHLHO-DO-SOLANO">
+    <img src="assets/sistema-oficina.webp" alt="Dashboard financeiro do sistema de gestão para oficina mecânica" width="100%"/></a>
+</p>
+
+<p align="center">
+  <sub><strong>Sistema de Gestão para Oficina Mecânica</strong> — dashboard financeiro, com dados de demonstração ·
+  <a href="https://github.com/ribeirolucas962/TRABAHLHO-DO-SOLANO">ver o projeto</a></sub>
+</p>
 
 🔎 **[Ver o portfólio completo →](https://ribeirolucas962.github.io/Portifolio_atualizado-/)** — com certificados, trajetória e currículo.
 
