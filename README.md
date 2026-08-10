@@ -58,7 +58,7 @@ Atuo desde a captura e o tratamento dos dados até a entrega de dashboards e rel
 
 <p align="center">
   <sub><strong>Sistema de Gestão para Oficina Mecânica</strong> — dashboard financeiro, com dados de demonstração ·
-  <a href="https://github.com/ribeirolucas962/TRABAHLHO-DO-SOLANO">ver o projeto</a></sub>
+  <a href="https://github.com/ribeirolucas962/sistema-oficina.git">ver o projeto</a></sub>
 </p>
 
 🔎 **[Ver o portfólio completo →](https://ribeirolucas962.github.io/Portifolio_atualizado-/)** — com certificados, trajetória e currículo.
