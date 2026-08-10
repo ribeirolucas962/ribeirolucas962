@@ -45,20 +45,20 @@ Atuo desde a captura e o tratamento dos dados até a entrega de dashboards e rel
 | Projeto | O que faz | Stack |
 |---|---|---|
 | **[Dashboard de Logística e Entregas](https://github.com/ribeirolucas962/projeto_entrega)** | Painel analítico para bases de logística: tratamento da planilha em memória, KPIs de SLA, atraso, devolução e custo, com filtros dinâmicos e insights automáticos. | Python · Streamlit · Plotly |
-| **[Sistema de Gestão para Oficina Mecânica](https://github.com/ribeirolucas962/TRABAHLHO-DO-SOLANO)** | Sistema desktop completo: clientes, veículos, ordens de serviço, estoque, financeiro, caixa e dashboard com relatórios em PDF. | Python · GUI |
+| **[Sistema de Gestão para Oficina Mecânica](https://github.com/ribeirolucas962/sistema-oficina)** | Sistema desktop completo: clientes, veículos, ordens de serviço, estoque, financeiro, caixa e dashboard com relatórios em PDF. | Python · GUI |
 | **[Análise do Sistema Fotovoltaico no Brasil](https://github.com/ribeirolucas962/Projeto-energia-solar)** | Tendências de crescimento da energia solar de 2009 a 2025 sobre dados da ANEEL, com leitura de sazonalidade e variação anual. | Python · Pandas · Estatística |
 | **[Modelo de Previsão de Vendas](https://github.com/ribeirolucas962/modelo_de_predicao)** | Modelo preditivo sobre histórico de vendas para identificar padrões e projetar resultados futuros. | Python · Scikit-learn |
 | **[Análises de Clusterização](https://github.com/ribeirolucas962/Analises-de-Clusteriza-o)** | Segmentação não supervisionada em diferentes versões e métricas, incluindo casos de vinhos e fraude bancária. | Python · Scikit-learn |
 | **[Machine Learning na prática](https://github.com/ribeirolucas962/Projeto_aprendizado_de-maquina_Scikit_learn_Keras_TensorFlow)** | Implementação dos estudos do "Mão à Obra" (Géron): redes neurais e modelos de deep learning para classificação e previsão. | Scikit-learn · Keras · TensorFlow |
 
 <p align="center">
-  <a href="https://github.com/ribeirolucas962/TRABAHLHO-DO-SOLANO">
+  <a href="https://github.com/ribeirolucas962/sistema-oficina">
     <img src="assets/sistema-oficina.webp" alt="Dashboard financeiro do sistema de gestão para oficina mecânica" width="100%"/></a>
 </p>
 
 <p align="center">
   <sub><strong>Sistema de Gestão para Oficina Mecânica</strong> — dashboard financeiro, com dados de demonstração ·
-  <a href="https://github.com/ribeirolucas962/sistema-oficina.git">ver o projeto</a></sub>
+  <a href="https://github.com/ribeirolucas962/sistema-oficina">ver o projeto</a></sub>
 </p>
 
 🔎 **[Ver o portfólio completo →](https://ribeirolucas962.github.io/Portifolio_atualizado-/)** — com certificados, trajetória e currículo.
