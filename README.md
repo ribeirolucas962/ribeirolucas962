@@ -105,6 +105,15 @@ Atuo desde a captura e o tratamento dos dados até a entrega de dashboards e rel
 
 ---
 
+## 📈 Atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ribeirolucas962/ribeirolucas962/output/cobrinha-dark.svg">
+  <img src="https://raw.githubusercontent.com/ribeirolucas962/ribeirolucas962/output/cobrinha-light.svg" alt="Cobrinha percorrendo o gráfico de contribuições do último ano" width="100%">
+</picture>
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-ribeiron/">LinkedIn</a> ·
   <a href="mailto:ribeirolucas962@gmail.com">ribeirolucas962@gmail.com</a> ·
