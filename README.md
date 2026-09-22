@@ -1,7 +1,18 @@
-<h1 align="center">👋 Olá! Eu sou Lucas Ribeiro Nepomuceno</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Lucas Ribeiro — Analista &amp; Cientista de Dados. Da eletrotécnica aos dados: 12 anos de diagnóstico em campo." width="100%">
+  </picture>
+</p>
 
 <p align="center">
-  <strong>Analista &amp; Cientista de Dados</strong><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/digitacao-dark.svg">
+    <img src="assets/digitacao-light.svg" alt="Python · SQL · Power BI · Machine Learning" width="100%">
+  </picture>
+</p>
+
+<p align="center">
   Transformando dados brutos em insights estratégicos que geram valor real para o negócio.
 </p>
 
